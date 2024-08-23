@@ -4,7 +4,7 @@
 
 ## Vision
 
-The StudyGroupFormation smart contract aims to facilitate the creation and management of study groups on the blockchain.
+The Study Group Formation smart contract aims to facilitate the creation and management of study groups on the blockchain.
 It allows users to create study groups for various courses and subjects, contribute to these groups, and earn rewards for their contributions.
 This system promotes collaborative learning and incentivizes active participation in study groups.
 
