@@ -10,7 +10,7 @@ It allows users to create study groups for various courses and subjects, contrib
 This system promotes collaborative learning and incentivizes active participation in study groups.
 
 ## Flowchart
-
+```
 +------------------+       +---------------------+
 |   Create Group   |       |   Add Contribution   |
 +------------------+       +---------------------+
@@ -29,10 +29,11 @@ This system promotes collaborative learning and incentivizes active participatio
 +------------------+       +---------------------+
 |   User Groups    |       |  Group Contributions |
 +------------------+       +---------------------+
+```
 
 #### **Contract Address**
-- **Network**: 
 - **Contract Address**: 0x1050440adeDd39522c4570d198f936Ee87E4e96f
+![image](https://github.com/user-attachments/assets/e24a9c10-9e06-4941-b31a-7a2a210e8895)
 
 
 ## Future Scope
