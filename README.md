@@ -8,6 +8,36 @@ The Study Group Formation smart contract aims to facilitate the creation and man
 It allows users to create study groups for various courses and subjects, contribute to these groups, and earn rewards for their contributions.
 This system promotes collaborative learning and incentivizes active participation in study groups.
 
+## Features
+
+1. **Study Group Creation**
+   - Users can create new study groups for specific courses and subjects.
+   - Each group includes a description, course, and subject, along with the creator's address.
+
+2. **Contribution System**
+   - Users can add contributions (e.g., content, notes) to any study group.
+   - Contributions are recorded with the contributor's address and a timestamp.
+
+3. **Contribution Tracking**
+   - The contract tracks the number of contributions made to each study group.
+   - Contribution history is accessible for each group.
+
+4. **User Rewards**
+   - Users earn rewards for each contribution they make to a study group.
+   - The reward rate is predefined and allocated per contribution.
+
+5. **User Group Management**
+   - Users can view the study groups they have created.
+   - Each user's associated groups are tracked and stored.
+
+6. **Reward Withdrawal**
+   - Users can withdraw their accumulated rewards.
+   - The contract includes a function for users to withdraw their rewards (for future token integration).
+
+7. **Contract Funding**
+   - The contract can receive and hold funds, preparing it for future token reward distribution.
+   - Users can fund the contract, ensuring there are sufficient rewards available for distribution.
+
 ## Flowchart
 ```
 +------------------+       +---------------------+
